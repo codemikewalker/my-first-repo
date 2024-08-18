@@ -1,2 +1,2 @@
 # my-first-repo
-Practice account for coursera coure
+Practice account for coursera course
